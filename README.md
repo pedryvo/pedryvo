@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroyvo/)](https://www.linkedin.com/in/pedroyvo/)
 
 ### Hi! 👋
-My name is Pedro Ivo and ...:
+My name is Pedro Ivo and ...
 
  - 📚 I'm an eager learner and curious
  - 💻🎮 NFSU2 is my favorite game
