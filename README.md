@@ -25,4 +25,5 @@ My name is Pedro Ivo and ...:
  - 🔭 I like space stuff and all things related 
  
  ### Feel free to get in touch 💬
- #### Main stack: #Ruby, #Javascript
+ #### Main stack: Ruby, Javascript
+ ### and always 🐧 Linux
