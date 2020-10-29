@@ -1,6 +1,6 @@
 
 <!--
-**anastaciopaulino/anastaciopaulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pedryvo/pedryvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Anastácio Paulino :man_technologist:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/anast%C3%A1cio-cassiano-cp-006b02191/)
+# Pedro Ivo :man_technologist:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroyvo/)](https://www.linkedin.com/in/pedroyvo/)
 
-### Hellooo! 👋 Welcome to my profile
-My name is Anastácio and ...:
+### Hi! 👋
+My name is Pedro Ivo and ...:
 
- - 📚 I really like to learn;
- - 💻🎮 a player in his spare time
- - 🚌 I like to travel, despite not traveling much;
+ - 📚 I'm an eager learner and curious
+ - 💻🎮 NFSU2 is my favorite game
+ - 🔭 I like space stuff and all things related 
  
- ### Enjoy the repositories and good studies
- #### always come back and follow me😉
+ ### Feel free to get in touch 💬
+ #### Main stack: #Ruby, #Javascript
