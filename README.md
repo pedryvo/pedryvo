@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 # Pedro Ivo :man_technologist:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroyvo/)](https://www.linkedin.com/in/pedroyvo/)
 
-### Hi!
+### Hi,
 My name is Pedro Ivo and ...
 
  - I'm an eager learner and curious
  - I like to get into music and art in my spare time
  - I like space stuff and all things related
  
- ### Feel free to get in touch
- #### Main stack: Ruby, Javascript
+ ### Feel free to get in touch.
+ ### Main stack:
+ #### Ruby, Javascript
