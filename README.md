@@ -26,4 +26,4 @@ My name is Pedro Ivo and ...
  
  ### Feel free to get in touch.
  ### Main stack:
- #### Ruby, Javascript
+ #### Ruby, JS
