@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 My name is Pedro Ivo and ...
 
  - I'm an eager learner and curious
- - I like to get into music and art in my spare time
+ - I like to listen music and appreciate art in my spare time
  - I like space stuff and all things related
  
  ### Feel free to get in touch.
