@@ -24,5 +24,5 @@ My name is Pedro Ivo and ...
  - I like to listen music and appreciate art in my spare time
  - I like space stuff and all things related
  
- ### Feel free to get in touch.
- ### Main stack: Ruby, JS
+ Feel free to get in touch.
+ Main stack: Ruby, JS
