@@ -26,4 +26,4 @@ My name is Pedro Ivo and ...
  
  Feel free to reaching out.
  
- #### Main stack: Ruby, JS
+ [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedryvo)](https://github.com/anuraghazra/github-readme-stats)
