@@ -22,7 +22,7 @@ My name is Pedro Ivo and ...
 
  - I'm an eager learner and curious
  - I like to listen to music and appreciate art in my spare time
- - I like space stuff and all things related
+ - I love space stuff and all things related
  
  Feel free to reaching out.
  
