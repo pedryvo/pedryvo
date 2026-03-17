@@ -1,4 +1,3 @@
-```markdown
 ## Fala, eu sou o Pedro Ivo 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pedroyvo)
@@ -80,4 +79,3 @@ Se você curte automação, IA ou quer tirar uma ideia do papel:
 ---
 
 **Sempre construindo, testando e aprendendo.**
-```
