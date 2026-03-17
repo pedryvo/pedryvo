@@ -4,7 +4,7 @@
 
 🚀 Software Engineer | Ruby on Rails | Automação | IA | MVP Builder  
 
-Sou desenvolvedor com foco em **backend e produto**, com forte experiência em **Ruby on Rails**, bancos relacionais e construção de sistemas reais que resolvem problemas de negócio. Além disso, estou cada vez mais direcionado para **automação de processos e inteligência artificial**, criando soluções práticas que geram valor rápido — incluindo desenvolvimento moderno com **Next.js**, **Prisma** e **shadcn/ui** para interfaces rápidas e bem construídas.
+Sou desenvolvedor com foco em **backend e produto**, com forte experiência em **Ruby on Rails**, bancos relacionais e construção de sistemas reais que resolvem problemas de negócio. Além disso, estou cada vez mais direcionado para **automação de processos e inteligência artificial**, criando soluções práticas que geram valor rápido, incluindo desenvolvimento moderno com **Next.js**, **Prisma** e **shadcn/ui** para interfaces rápidas e bem construídas.
 
 💡 **Sobre mim**:  
 Gosto de construir coisas que saem do papel. Desde APIs robustas até MVPs completos, sempre com foco em **velocidade, simplicidade e impacto real**. Também exploro bastante automações com ferramentas como n8n, integrações com APIs e uso de IA para otimizar fluxos.
