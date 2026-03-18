@@ -11,7 +11,7 @@ Gosto de construir coisas que saem do papel. Desde APIs robustas até MVPs compl
 
 💡 **Principais skills**:  
 ✅ Desenvolvimento backend com **Ruby on Rails**  
-✅ Modelagem de dados e queries avançadas (**MySQL**)  
+✅ Modelagem de dados e queries avançadas (**SQL**)  
 ✅ Construção de APIs REST e integrações externas  
 ✅ Automação de processos com **n8n** e serviços third-party  
 ✅ Integração com pagamentos (**Stripe**)  
