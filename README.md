@@ -15,7 +15,7 @@ Gosto de construir coisas que saem do papel. Desde APIs robustas até MVPs compl
 ✅ Construção de APIs REST e integrações externas  
 ✅ Automação de processos com **n8n** e serviços third-party  
 ✅ Integração com pagamentos (**Stripe**)  
-✅ Experiência com **Active Storage**, segurança de arquivos e S3  
+✅ Experiência com **Active Storage** e S3  
 ✅ Criação de MVPs rápidos e escaláveis  
 ✅ Frontend moderno com **Next.js**, **React** e **shadcn/ui**  
 
@@ -58,7 +58,7 @@ Se você curte automação, IA ou quer tirar uma ideia do papel:
 ## 🚀 Stack principal
 
 - Ruby on Rails
-- MySQL
+- MySQL / PostgreSQL
 - JavaScript / React / Next.js
 - Prisma
 - shadcn/ui
@@ -73,7 +73,7 @@ Se você curte automação, IA ou quer tirar uma ideia do papel:
 
 - Experiência com migração de sistemas (ex: Paperclip → Active Storage)  
 - Criação de relatórios e processamento de dados  
-- Trabalhando com integrações externas (OData, APIs diversas)  
+- Trabalhando com integrações externas (APIs diversas)  
 - Interesse em growth + produto + tech juntos  
 
 ---
