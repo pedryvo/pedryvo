@@ -17,9 +17,6 @@ I build high-reliability backends, payment infrastructure, full-stack products, 
 - **[`rrt2-decomp`](https://github.com/pedryvo/rrt2-decomp)** *(Rust · wgpu · Ghidra · Unicorn x86)*  
   Clean-room reverse engineering and modern cross-platform Rust reimplementation of *Railroad Tycoon II Platinum* (1998). Features a custom `wgpu` isometric renderer (native 1080p/4K), a differential x86 emulator test harness (Unicorn), a deterministic simulation core verified field-by-field against the original executable across 131 savegame scenarios, lockstep TCP multiplayer, map/scenario editor, and 6-language localization.
 
-- **[`playlist-decomp`](https://github.com/pedryvo/playlist-decomp)** *(Rust · Audio Engine · Cross-Platform)*  
-  Clean-room reverse engineering and native cross-platform Rust reimplementation of the *Playlist Digital 5* radio broadcast automation suite for Windows, Linux, and macOS. Implements bit-accurate parsers for legacy dBase III+ (`.DBF`/`.DBT`) databases, Clipper `.NTX` B-tree indices, `.pkinfo` waveform peak envelopes, 24-hour broadcast schedule grids, dual-deck crossfading playout, `HTU300` weather telemetry, satellite DTMF switching (`Ligacao`), RDS generation, and 5-language localization.
-
 ---
 
 ## 🏦 Production Systems & Architecture Highlights
