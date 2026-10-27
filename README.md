@@ -24,14 +24,14 @@ I build high-reliability backends, payment infrastructure, full-stack products, 
 
 ## 🏦 Production Systems & Architecture Highlights
 
-- **Payment Orchestration & Anti-Fraud Core (`corepay` — Rust)**  
+- **Payment Orchestration & Anti-Fraud Core (Rust)**  
   Architected and hardened a high-assurance payment gateway and ledger system in Rust:
   - Per-provider and per-operation **circuit breakers** with probe windows, CloudWatch EMF telemetry, and automated alerting;
   - Pre-provider **card velocity anti-fraud buckets** (`429 VELOCITY_LIMIT_EXCEEDED` with `Retry-After`) and per-customer/currency billing limits;
-  - End-to-end **chargeback & dispute state machines** integrated with payment providers (Asaas), transactional outbox/Kafka events, and outbound webhooks;
+  - End-to-end **chargeback & dispute state machines** integrated with payment providers, transactional outbox/Kafka events, and outbound webhooks;
   - Hardened operator console (TOTP 2FA with replay protection, account lockout, RBAC, CSRF, SSE live streams) backed by PostgreSQL, OpenAPI specs, ADRs, and **mutation testing** in CI.
 
-- **Node.js-to-Rust Backend Migration (`backend-rust-mindflow` & `*jspay` — Rust / TypeScript)**  
+- **Node.js-to-Rust Backend Migration (Rust / TypeScript)**  
   Led a high-throughput backend migration from Node.js/TypeScript to Rust with strict commit-by-commit parity auditing across co-production revenue splits, affiliate attribution, recurring subscriptions, LGPD/GDPR privacy exports, and load testing, alongside Cloudflare/AWS infrastructure for the platform's API, creator dashboard, and student portal.
 
 - **Ruby on Rails & Full-Stack Product Engineering**  
